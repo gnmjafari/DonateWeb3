@@ -2,7 +2,19 @@
 
 # [Live Demo Project](https://old-bird-7965.on.fleek.co/)
 
-### Photos of the project
+# Features
+- [x] style by tailwindcss
+- [x] Connect to wallet
+- [x] Using the GoerliETH network
+- [x] Add Donit request
+- [x] Show all campaigns
+- [x] The ability to donate
+- [x] using [https://thirdweb.com](https://thirdweb.com)
+- [x] The ability to donate
+- [x] View your own campaigns
+- [] Dark mode
+
+# Photos of the project
  
 ###### Home
  
