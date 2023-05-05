@@ -1,6 +1,6 @@
-#ِ Donate Project
+# Donate Project
 
-##[Live Demo Project](https://old-bird-7965.on.fleek.co/)
+# [Live Demo Project](https://old-bird-7965.on.fleek.co/)
 
 ## Getting Started
 
