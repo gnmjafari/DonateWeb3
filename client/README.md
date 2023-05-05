@@ -30,8 +30,4 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 - [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
 - [React documentation](https://reactjs.org/) - learn React.
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+You can check out [the thirdweb GitHub organization](https://github.com/gnmjafari) - your feedback and contributions are welcome!
