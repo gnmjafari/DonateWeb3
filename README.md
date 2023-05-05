@@ -12,7 +12,7 @@
 - [x] using [https://thirdweb.com](https://thirdweb.com)
 - [x] The ability to donate
 - [x] View your own campaigns
-- [] Dark mode
+- [ ] Dark mode
 
 # Photos of the project
  
