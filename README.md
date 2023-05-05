@@ -1,4 +1,4 @@
-# Donate Project
+# Web3 Project (Donate)
 
 # [Live Demo Project](https://old-bird-7965.on.fleek.co/)
 
