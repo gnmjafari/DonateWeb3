@@ -4,7 +4,7 @@
 
 ## Photos of the project
 #### Home
-[a](https://s8.uupload.ir/files/vite-javascript-starter_-_google_chrome_5_5_2023_7_54_13_pm_23u.png)
+[](https://s8.uupload.ir/files/vite-javascript-starter_-_google_chrome_5_5_2023_7_54_13_pm_23u.png)
 
 ## Getting Started
 
